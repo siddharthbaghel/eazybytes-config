@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 cards:
-  message: "Welcome to EazyBank cards related QA APIs "
+  message: "Welcome to EazyBank cards related new QA APIs "
   contactDetails:
     name: "siddharth baghel- QA Lead"
     email: "cherryl@eazybank.com"
